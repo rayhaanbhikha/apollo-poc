@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Rayhaan",
+        "age": 24,
+        "gender": "male"
+    },
+    {
+        "id": 2,
+        "name": "Rizwaan",
+        "age": 22,
+        "gender": "male"
+    },
+    {
+        "id": 3,
+        "name": "Raeesa",
+        "age": 32,
+        "gender": "female"
+    },
+    {
+        "id": 4,
+        "name": "Hanif",
+        "age": 56,
+        "gender": "male"
+    },
+    {
+        "id": 5,
+        "name": "Noorjahan",
+        "age": 56,
+        "gender": "female"
+    }
+]
